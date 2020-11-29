@@ -13,6 +13,14 @@
 		A42500782570DFCA0016C206 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A42500762570DFCA0016C206 /* Main.storyboard */; };
 		A425007A2570DFCB0016C206 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A42500792570DFCB0016C206 /* Assets.xcassets */; };
 		A425007D2570DFCB0016C206 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A425007B2570DFCB0016C206 /* LaunchScreen.storyboard */; };
+		A425008A2570E4680016C206 /* IMG01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A42500892570E4680016C206 /* IMG01.JPG */; };
+		A425008D2570E47D0016C206 /* IMG02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A425008C2570E47D0016C206 /* IMG02.JPG */; };
+		A42500932570E4970016C206 /* IMG04.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A42500922570E4970016C206 /* IMG04.jpeg */; };
+		A42500972570E4D70016C206 /* IMG03.JPG in Resources */ = {isa = PBXBuildFile; fileRef = A42500962570E4D60016C206 /* IMG03.JPG */; };
+		A425009A2570E4E10016C206 /* IMG05.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A42500992570E4E10016C206 /* IMG05.jpeg */; };
+		A425009D2570E4E90016C206 /* IMG06.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A425009C2570E4E90016C206 /* IMG06.jpeg */; };
+		A42500A02570E4EF0016C206 /* IMG07.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A425009F2570E4EF0016C206 /* IMG07.jpeg */; };
+		A42500A4257196DA0016C206 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42500A3257196DA0016C206 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		A42500792570DFCB0016C206 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A425007C2570DFCB0016C206 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A425007E2570DFCB0016C206 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A42500892570E4680016C206 /* IMG01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG01.JPG; sourceTree = "<group>"; };
+		A425008C2570E47D0016C206 /* IMG02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG02.JPG; sourceTree = "<group>"; };
+		A42500922570E4970016C206 /* IMG04.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG04.jpeg; sourceTree = "<group>"; };
+		A42500962570E4D60016C206 /* IMG03.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG03.JPG; sourceTree = "<group>"; };
+		A42500992570E4E10016C206 /* IMG05.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG05.jpeg; sourceTree = "<group>"; };
+		A425009C2570E4E90016C206 /* IMG06.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG06.jpeg; sourceTree = "<group>"; };
+		A425009F2570E4EF0016C206 /* IMG07.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG07.jpeg; sourceTree = "<group>"; };
+		A42500A3257196DA0016C206 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +75,18 @@
 				A42500702570DFCA0016C206 /* AppDelegate.swift */,
 				A42500722570DFCA0016C206 /* SceneDelegate.swift */,
 				A42500742570DFCA0016C206 /* ViewController.swift */,
+				A42500A3257196DA0016C206 /* SecondViewController.swift */,
 				A42500762570DFCA0016C206 /* Main.storyboard */,
 				A42500792570DFCB0016C206 /* Assets.xcassets */,
 				A425007B2570DFCB0016C206 /* LaunchScreen.storyboard */,
 				A425007E2570DFCB0016C206 /* Info.plist */,
+				A42500892570E4680016C206 /* IMG01.JPG */,
+				A425008C2570E47D0016C206 /* IMG02.JPG */,
+				A42500962570E4D60016C206 /* IMG03.JPG */,
+				A42500922570E4970016C206 /* IMG04.jpeg */,
+				A42500992570E4E10016C206 /* IMG05.jpeg */,
+				A425009C2570E4E90016C206 /* IMG06.jpeg */,
+				A425009F2570E4EF0016C206 /* IMG07.jpeg */,
 			);
 			path = SlideshowApp;
 			sourceTree = "<group>";
@@ -124,9 +148,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A42500A02570E4EF0016C206 /* IMG07.jpeg in Resources */,
+				A425009A2570E4E10016C206 /* IMG05.jpeg in Resources */,
 				A425007D2570DFCB0016C206 /* LaunchScreen.storyboard in Resources */,
+				A42500932570E4970016C206 /* IMG04.jpeg in Resources */,
 				A425007A2570DFCB0016C206 /* Assets.xcassets in Resources */,
+				A425008D2570E47D0016C206 /* IMG02.JPG in Resources */,
+				A42500972570E4D70016C206 /* IMG03.JPG in Resources */,
+				A425008A2570E4680016C206 /* IMG01.JPG in Resources */,
 				A42500782570DFCA0016C206 /* Main.storyboard in Resources */,
+				A425009D2570E4E90016C206 /* IMG06.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +168,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A42500A4257196DA0016C206 /* SecondViewController.swift in Sources */,
 				A42500752570DFCA0016C206 /* ViewController.swift in Sources */,
 				A42500712570DFCA0016C206 /* AppDelegate.swift in Sources */,
 				A42500732570DFCA0016C206 /* SceneDelegate.swift in Sources */,
@@ -289,6 +321,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z36HZ8PUCD;
 				INFOPLIST_FILE = SlideshowApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +341,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Z36HZ8PUCD;
 				INFOPLIST_FILE = SlideshowApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
